@@ -16,3 +16,4 @@
 | 9   | elRDgamer 2020.06.13 | 2020-06-13           | [Link](https://github.com/EXtremeExploit/osu-skins/blob/master/elRDgamer%202020.06.13.osk?raw=true) | 97d224cdd4fbb30a332c12424bf7d259b8f101bf |
 | 10  | elRDgamer 2021.01.07 | 2021-01-07           | [Link](https://github.com/EXtremeExploit/osu-skins/blob/master/elRDgamer%202021.01.07.osk?raw=true) | c6e3cdaef8f901d22c6e2cc11ec77d20b6932b71 |
 | 11  | elRDgamer 2021.01.30 | 2021-01-30           | [Link](https://github.com/EXtremeExploit/osu-skins/blob/master/elRDgamer%202021.01.30.osk?raw=true) | 29f1af59c14079c87e98b06d7930f9a7e0425625 |
+| 12  | Pedrito 2023.05.08   | 2023-05-08           | [Link](https://github.com/EXtremeExploit/osu-skins/blob/master/Pedrito%202023.05.08.osk?raw=true)   | 6002c1753df26c192e8ce9f86abe8c3b0ba21017 |
